@@ -1,1 +1,1 @@
-My readme file from terminal
+This is my update of readme from WEDGUI
